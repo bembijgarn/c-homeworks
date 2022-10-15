@@ -1,0 +1,16 @@
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\bin\Debug\net5.0\HomeworkV3_t3.exe
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\bin\Debug\net5.0\HomeworkV3_t3.deps.json
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\bin\Debug\net5.0\HomeworkV3_t3.runtimeconfig.json
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\bin\Debug\net5.0\HomeworkV3_t3.runtimeconfig.dev.json
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\bin\Debug\net5.0\HomeworkV3_t3.dll
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\bin\Debug\net5.0\HomeworkV3_t3.pdb
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.AssemblyInfo.cs
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.dll
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\refint\HomeworkV3_t3.dll
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.pdb
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\HomeworkV3_t3.genruntimeconfig.cache
+C:\Users\lasha\source\repos\HomeworkV3_t3\HomeworkV3_t3\obj\Debug\net5.0\ref\HomeworkV3_t3.dll
