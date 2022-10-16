@@ -86,29 +86,18 @@ namespace HomeworkV3_t3
             Console.Write("------------------------\n");
             #endregion
             #region MYTASK
-<<<<<<< HEAD
 
             // Pick Number from the List and , Replace with Your Number
 
             bool yes = false;
             var list1 = new List<int>() { 55, 445, 12, 1, 3, 4, 5, 6, 10 };
             Console.Write("Numbers - ");
-=======
-            
-            // Pick Number from the List and , Replace with Your Number
-
-            var list1 = new List<int>() { 55, 445, 12, 1, 3, 4, 5, 6, 10 };
->>>>>>> 076d47332b34d7321739cfe83b1f5200e8f8d94f
             foreach (var item in list1)
             {
                 Console.Write($"{item} ");
             }
             Console.Write("\n");
-<<<<<<< HEAD
             Console.Write("Pick a number to replace : ");
-=======
-            Console.Write("Pick a number : ");
->>>>>>> 076d47332b34d7321739cfe83b1f5200e8f8d94f
             int NNumber = Convert.ToInt32(Console.ReadLine());
             Console.Write("Pick a replace number : ");
             int replace = Convert.ToInt32(Console.ReadLine());
@@ -119,7 +108,6 @@ namespace HomeworkV3_t3
                     var found = list1.Where(a => a == NNumber).FirstOrDefault();
                     var index = list1.FindIndex(a => a == NNumber);
                     list1[index] = replace;
-<<<<<<< HEAD
                     yes = true;
                     break;
                 }
@@ -136,16 +124,6 @@ namespace HomeworkV3_t3
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"{replace} is not in Numbers.");
-=======
-                    break;
-                }
-            }
-            Console.Write("\n");
-            Console.ForegroundColor = ConsoleColor.Red;
-            foreach (var item in list1)
-            {
-                Console.Write($"{item} ");
->>>>>>> 076d47332b34d7321739cfe83b1f5200e8f8d94f
             }
             Console.ResetColor();
             #endregion
