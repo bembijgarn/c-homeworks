@@ -79,7 +79,7 @@ namespace homeowrkv5
                 {
                     Salary += Hours[i] * SalarayPhour;
                 }
-                if (i == Hours.Count - 2 || i == Hours.Count - 1)
+                else
                 {
                     int XSalary = 20;
                     Salary += Hours[i] * XSalary;
