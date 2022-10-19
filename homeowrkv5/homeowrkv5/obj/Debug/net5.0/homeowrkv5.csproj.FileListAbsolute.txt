@@ -1,0 +1,16 @@
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\bin\Debug\net5.0\homeowrkv5.exe
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\bin\Debug\net5.0\homeowrkv5.deps.json
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\bin\Debug\net5.0\homeowrkv5.runtimeconfig.json
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\bin\Debug\net5.0\homeowrkv5.runtimeconfig.dev.json
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\bin\Debug\net5.0\homeowrkv5.dll
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\bin\Debug\net5.0\homeowrkv5.pdb
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.AssemblyInfo.cs
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.dll
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\refint\homeowrkv5.dll
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.pdb
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\homeowrkv5.genruntimeconfig.cache
+C:\Users\lasha\source\repos\homeowrkv5\homeowrkv5\obj\Debug\net5.0\ref\homeowrkv5.dll
