@@ -65,24 +65,28 @@ namespace homeowrkv5
            #endregion
             Console.Write("\n");
             #region task4
-            List <int> Hours = new List<int>() {4,4,4,4,4,0,4};
+            List<int> Hours = new List<int>() { 0, 8, 8, 8, 8, 9, 9 };
+            int standart = 8;
             int SalarayPhour = 10;
             int Salary = 0;
+            int Bonuse = 5;
 
             for (int i = 0; i < Hours.Count; i++)
             {
-                if (Hours[i] == 0)
-                {
-                    continue;
-                }
-               if(i < Hours.Count - 2)
+                if (i < Hours.Count - 2 && Hours[i] <= standart)
                 {
                     Salary += Hours[i] * SalarayPhour;
+
                 }
-                else
+                else if (i < Hours.Count - 2 && Hours[i] > standart)
+                {
+
+                    Salary += Hours[i] * SalarayPhour + (Bonuse * (Hours[i] - standart));
+                }
+                if (i >= Hours.Count - 2)
                 {
                     int XSalary = 20;
-                    Salary += Hours[i] * XSalary;
+                    Salary += Hours[i] * XSalary + Bonuse;
                 }
             }
             Console.Write($"Salary = {Salary}.");
