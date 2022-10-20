@@ -86,7 +86,7 @@ namespace homeowrkv5
                 if (i >= Hours.Count - 2)
                 {
                     int XSalary = 20;
-                    Salary += Hours[i] * XSalary + Bonuse;
+                    Salary += Hours[i] * XSalary + (Bonuse * (Hours[i] - standart));
                 }
             }
             Console.Write($"Salary = {Salary}.");
