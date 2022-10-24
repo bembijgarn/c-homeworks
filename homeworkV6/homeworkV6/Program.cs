@@ -168,9 +168,13 @@ namespace homeworkV6
             var freq = from x in pair group x by x into y select y;
             foreach (var neekush in freq)
             {
-                if (neekush.Count() % 2 == 0)
+                if (neekush.Count() > 1 && neekush.Count() % 2 == 0)
                 {
-                    pairs++;
+                    pairs += neekush.Count() / 2;
+                }
+                else if(neekush.Count() > 1 && neekush.Count() % 2 == 0)
+                {
+                    pairs += (neekush.Count() - 1) / 2;
                 }
             }
             Console.Write(pairs);
@@ -210,7 +214,7 @@ namespace homeworkV6
                 int sum = 0;
                 foreach (var item in Value)
                 {
-                    sum += Convert.ToInt32(item);
+                   sum += Convert.ToInt32(item);
                 }
                 Console.WriteLine($"Sum = {sum}.");
             }else if (typeof(T) == typeof(bool))
