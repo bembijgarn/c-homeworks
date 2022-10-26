@@ -1,0 +1,16 @@
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\bin\Debug\net5.0\homeworkv7.exe
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\bin\Debug\net5.0\homeworkv7.deps.json
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\bin\Debug\net5.0\homeworkv7.runtimeconfig.json
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\bin\Debug\net5.0\homeworkv7.runtimeconfig.dev.json
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\bin\Debug\net5.0\homeworkv7.dll
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\bin\Debug\net5.0\homeworkv7.pdb
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.AssemblyInfo.cs
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.dll
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\refint\homeworkv7.dll
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.pdb
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\homeworkv7.genruntimeconfig.cache
+C:\Users\lasha\source\repos\homeworkv7\homeworkv7\obj\Debug\net5.0\ref\homeworkv7.dll

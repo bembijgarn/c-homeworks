@@ -232,8 +232,14 @@ namespace homeworkV6
                 Console.Write($"{number}-");
                 return;
             }
-            task6(number / 10); 
+            task6(number / 10);
+            if (number == 12345)
+            {
+                Console.Write(number % 10);
+            }
+            else { 
             Console.Write($"{number % 10}-");
+        }
         }
     }       
 }
