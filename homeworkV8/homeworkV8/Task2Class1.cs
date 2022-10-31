@@ -36,7 +36,7 @@ namespace homeworkV8
             month = Convert.ToInt32(Console.ReadLine());
             int fullcomission = month * 4; // 4$ per month
             int percent = money * (10 / 100);
-            return money + fullcomission + percent; 
+            return fullcomission + percent; 
 
            
         }

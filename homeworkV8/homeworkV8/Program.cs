@@ -46,7 +46,7 @@ namespace homeworkV8
             MicroFinance Micro = new MicroFinance();
             int x = 0;
             double d = 0;
-            Console.WriteLine($"{Micro.CalculateLoanPercent(x,d)} $.");
+            Console.WriteLine($"{Micro.CalculateLoanPercent(x,d)} %.");
 
             #endregion
         }
