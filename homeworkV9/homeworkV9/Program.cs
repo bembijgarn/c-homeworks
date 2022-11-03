@@ -13,7 +13,7 @@ namespace homeworkV9
     {
         static void Main()
         {
-            #region TASK1
+           /* #region TASK1
 
             Task1 task = new Task1();
             task.file();
@@ -36,7 +36,7 @@ namespace homeworkV9
             Nicolas nikz = new();
             nikz.Calculate();
             #endregion
-            Console.Write("\n");
+            Console.Write("\n");*/
             #region TASK5
 
             Cypher cypher = new Cypher();
