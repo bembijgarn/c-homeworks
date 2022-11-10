@@ -1,0 +1,25 @@
+﻿.ttext{
+    position : center;
+    text-align : center;
+}
+.Vizitzor{
+   position : absolute;
+}
+.text{
+    display : table;
+}
+.lab{
+    display : flex;
+}
+.dd{
+    display : flex;
+}
+.butt{
+    display:flex;
+    position:center;
+    border-color : white;
+}
+.butt:hover {
+    background-color :  aqua;
+    transition-duration : 1s;
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hd47w/VIWPv93l8P7LvIHfUjmCFilbIhc8Wl5xL+yG3rk0+LF4lmawMR/dPd9giwy8362T6qdJNxAxM59nY4qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lasha\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lasha\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\lasha\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

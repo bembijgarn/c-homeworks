@@ -1,0 +1,74 @@
+﻿@model WebApplication3.Models.person
+
+@{
+    ViewData["Title"] = "Visit";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/visit.css" />
+
+</head>
+<body>
+    <div class="ttext">
+        <h1 class="hh">Visit Reservation</h1>
+    </div>
+    @using (Html.BeginForm("Visit", "Home", FormMethod.Post))
+    {
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <th colspan="2" align="center">Your Details</th>
+            </tr>
+            <tr>
+                <td>FirstName: </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Firstname)
+                </td>
+            </tr>
+            <tr>
+                <td>LastName: </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Lastname)
+                </td>
+            </tr>
+            <tr>
+                <td>Doctor: </td>
+                <td>
+                    @Html.DropDownListFor(m => m.Doctor, new List<SelectListItem>
+                {new SelectListItem{Text="Dentist", Value="Dentist"},
+                new SelectListItem{Text="Psychologist", Value="Psychologist"},
+                new SelectListItem{Text="Traumatologist", Value="Traumatologist"},
+                new SelectListItem{Text="Psychologist", Value="Psychologist"},
+                new SelectListItem{Text="Neurotherapist", Value="Neurotherapist"}},"Please select")
+                </td>
+            </tr>
+            <tr>
+                <td>Time: </td>               
+                <td>
+                    @Html.DropDownListFor(m => m.Datetime, new List<SelectListItem>
+                {new SelectListItem{Text="10:00", Value="10:00"},
+                new SelectListItem{Text="11:00", Value="11:00"},
+                new SelectListItem{Text="12:00", Value="12:00"},
+                new SelectListItem{Text="13:00", Value="13:00"},
+                new SelectListItem{Text="14:00", Value="14:00"},
+                new SelectListItem{Text="15:00", Value="15:00"},
+                new SelectListItem{Text="16:00", Value="16:00"},
+                new SelectListItem{Text="17:00", Value="17:00"},
+                new SelectListItem{Text="18:00", Value="18:00"}},
+                "Please select")
+                    
+
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+    }
+
+
+</body>
+</html>
