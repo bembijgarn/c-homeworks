@@ -93,8 +93,8 @@ namespace WebApplication7.Controllers
             else
             {
 
-                var p = _context.Persons.Where(x => x.Id == id).FirstOrDefault();
-                p.Firstname += "gamarjoba";
+                /*var p = _context.Persons.Where(x => x.Id == id).FirstOrDefault();
+                p.Firstname += "gamarjoba";*/
 
                 _context.SaveChanges();
                 var myperson = new Person()
