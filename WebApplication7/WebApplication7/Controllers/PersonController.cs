@@ -94,9 +94,9 @@ namespace WebApplication7.Controllers
             {
 
                 /*var p = _context.Persons.Where(x => x.Id == id).FirstOrDefault();
-                p.Firstname += "gamarjoba";*/
+                p.Firstname += "gamarjoba";*//*
 
-                _context.SaveChanges();
+                _context.SaveChanges();*/
                 var myperson = new Person()
                 {
                     Datetime = person.Datetime,
